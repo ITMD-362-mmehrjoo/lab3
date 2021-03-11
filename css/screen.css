@@ -236,10 +236,8 @@ form label{
 form{
   font-family: 'Raleway', sans-serif;
   /* Center */
-  margin: 10 auto;
   text-align: center;
   padding: 2em;
-
   background-color: #080808;
   border-radius: 20px;
   background-image: url(../img/1.jpg);
